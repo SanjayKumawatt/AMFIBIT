@@ -66,9 +66,7 @@ const Hero = () => {
 
             {/* Trust Indicators (Optional small addition for credibility) */}
             <div className="mt-10 flex items-center justify-center lg:justify-start gap-6 text-sm text-slate-500 font-medium">
-              <div className="flex items-center gap-2">
-                <CheckCircle2 size={16} className="text-green-500" /> Cloud-Native
-              </div>
+              
               <div className="flex items-center gap-2">
                 <CheckCircle2 size={16} className="text-green-500" /> Secure
               </div>

@@ -35,7 +35,7 @@ const Technology = () => {
       title: "Cloud & DevOps",
       icon: <Cloud size={32} />,
       desc: "Scalable infrastructure with automated deployment pipelines.",
-      tools: ["AWS", "Docker", "Kubernetes", "CI/CD (GitHub Actions)", "Redis", "Nginx"],
+      tools: [ "Docker", "Kubernetes", "CI/CD (GitHub Actions)", "Redis", "Nginx"],
       color: "orange"
     }
   ];

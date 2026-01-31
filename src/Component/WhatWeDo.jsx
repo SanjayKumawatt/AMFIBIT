@@ -63,16 +63,6 @@ const WhatWeDo = () => {
               </p>
             </div>
 
-            {/* Small Cloud Badge */}
-            <div className="flex items-center gap-3 pt-4">
-              <div className="p-2 bg-blue-600 rounded-lg text-white">
-                <Cloud size={20} />
-              </div>
-              <div>
-                <h4 className="font-bold text-slate-900 text-sm">Cloud-Native Architecture</h4>
-                <p className="text-xs text-slate-500">Built for AWS / Azure / GCP</p>
-              </div>
-            </div>
           </motion.div>
 
           {/* --- Right Column: Visual Feature Grid --- */}
